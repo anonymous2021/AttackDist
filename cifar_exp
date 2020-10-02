@@ -1,0 +1,6 @@
+#!/bin/bash
+
+bash cifar_adv.sh
+bash cifar_feature.sh
+bash cifar_stat.sh
+
